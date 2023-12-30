@@ -36,11 +36,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="40 alt="github actions logo"  />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/TeamCity_Icon.svg" height="40" alt="teamcity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="40 alt="github actions logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="12" />
