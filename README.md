@@ -90,11 +90,3 @@
 <img src="https://github.com/briskdust/briskdust/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/briskdust">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=briskdust&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
