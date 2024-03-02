@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- MSc Software Engineering @ University of Amsterdam<br>- BSc Computer Science @ University of Groningen<br>- DevOps Engineer @ Seita BV</p>
+<p align="left">- MSc Software Engineering @ University of Amsterdam<br>- BSc Computer Science @ University of Groningen
 
 ###
 
