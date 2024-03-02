@@ -46,6 +46,8 @@
   <img width="12" />
   <img src="https://nmap.org/images/nmap-logo-64px.svg" height="40" alt="nmap logo"  />
   <img width="12" />
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height="40" alt="metasploit logo"  />
+  <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
