@@ -48,6 +48,8 @@
   <img width="12">
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height="40" alt="metasploit logo"  />
   <img width="12">
+  <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/blog/nessus15thlogo.png" height="40" alt="nessus logo"  />
+  <img width="12">
   <img src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png" height="40" alt="kali logo"  />
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
