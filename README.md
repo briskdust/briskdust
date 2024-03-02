@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://brandslogos.com/wp-content/uploads/images/aws-logo-vector.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://nmap.org/images/nmap-logo-64px.svg" height="40" alt="nmap logo"  />
   <img width="12" />
