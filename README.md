@@ -76,7 +76,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=briskdust&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=briskdust&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2&&bg_color=00000000" height="200" alt="languages graph"  />
 </div>
 
 ###
