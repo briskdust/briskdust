@@ -76,6 +76,79 @@
 ###
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-202-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 150.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 47 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 26 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+🌆 Daytime                293 commits         ██████████░░░░░░░░░░░░░░░   39.49 % 
+🌃 Evening                288 commits         ██████████░░░░░░░░░░░░░░░   38.81 % 
+🌙 Night                  103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Tuesday                  117 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Wednesday                139 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Thursday                 87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Friday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Saturday                 89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Sunday                   118 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Amsterdam
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               18 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   31.11 % 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Haskell                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/briskdust/briskdust/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/03/2024 11:10:46 UTC
 <!--END_SECTION:waka-->
 
 ###
