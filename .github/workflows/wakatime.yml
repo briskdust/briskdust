@@ -14,3 +14,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_TOKEN }}
           GH_TOKEN: ${{ secrets.WAKA_ACCESS }}
+          SHOW_TOTAL_CODE_TIME: False
+          SHOW_PROFILE_VIEWS: False
+          SHOW_LANGUAGE: False
+          SHOW_LOC_CHART: False
+          SHOW_UPDATED_DATE: False
