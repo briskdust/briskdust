@@ -87,6 +87,10 @@
 
 ###
 
-<img src="https://github.com/briskdust/briskdust/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/briskdust/briskdust/blob/output/snake.svg" alt="Snake animation"  />
+
+###
+
+<img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution"  />
 
 ###
