@@ -82,7 +82,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=briskdust&locale=en&mode=daily&theme=burnt-neon&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=briskdust&locale=en&mode=daily&theme=horizon&hide_border=false&border_radius=5&order=3&background=00000000" height="220" alt="streak graph"  />
 </div>
 
 ###
