@@ -75,6 +75,11 @@
 
 ###
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=briskdust&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2&&bg_color=00000000" height="200" alt="languages graph"  />
 </div>
@@ -94,79 +99,3 @@
 <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution"  />
 
 ###
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-202-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 150.0 kB Used in GitHub's Storage 
- > 
-> 🏆 48 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 26 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-🌆 Daytime                292 commits         ██████████░░░░░░░░░░░░░░░   39.41 % 
-🌃 Evening                288 commits         ██████████░░░░░░░░░░░░░░░   38.87 % 
-🌙 Night                  103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Tuesday                  117 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Wednesday                139 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Thursday                 87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Friday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Saturday                 89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Sunday                   117 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Amsterdam
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               18 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   31.11 % 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Haskell                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-HCL                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/briskdust/briskdust/main/assets/bar_graph.png)
-
-
- Last Updated on 03/03/2024 11:05:53 UTC
-<!--END_SECTION:waka-->
