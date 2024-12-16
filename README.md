@@ -44,6 +44,8 @@
   <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/images/aws-logo-vector.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/448269/azure-aks.svg" height=40 alt="aks" />
+  <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
