@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">- MSc Software Engineering @ University of Amsterdam<br>- BSc Computer Science @ University of Groningen
+<p align="left">- DevOps / Cloud Engineer @ Amadeus<br>- MSc Software Engineering @ University of Amsterdam<br>- BSc Computer Science @ University of Groningen
 
 ###
 
